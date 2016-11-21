@@ -3,10 +3,10 @@ import { Component } from '@angular/core';
 @Component({
 	selector : 'my-app',
 	template : `
-	app.component.html
+	<h1>ng2-quickstart</h1>
 	`,
 	styles : [`
-	body{}
+		body{}
 	`]
 })
 
