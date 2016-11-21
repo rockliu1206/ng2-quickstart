@@ -6,7 +6,9 @@ import { Component } from '@angular/core';
 	<h1>ng2-quickstart</h1>
 	`,
 	styles : [`
-		body{}
+		body{
+			margin:40px;
+		}
 	`]
 })
 
